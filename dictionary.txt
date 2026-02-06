@@ -5,9 +5,9 @@ Y Berlin
 Y Hauptstrasse (Main street)
 Y Brot (Bread)
 – Klimaanlage (Air conditioning)
-– Rammstein (German band)
-– Porsche
-– BMW
+Y Rammstein (German band)
+Y Porsche
+Y BMW
 – Biergarten (Beer garden)
 – Ratskeller (Council cellar/restaurant)
 – Dirndel (Traditional dress)
@@ -17,7 +17,7 @@ Y Schloss (Castle/palace)
 – Mehlhase (Flour rabbit)
 – Gebaeck (Pastries)
 – Baeckerei (Bakery)
-– Hund (Dog)
+Y Hund (Dog)
 Y Doener (Turkish kebab)
 Y Apfelkuchen (Apple cake)
 – Schloss Eltz (Castle Eltz)
